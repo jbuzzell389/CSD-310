@@ -1,2 +1,2 @@
 # csd-310
-My GitHub Repository
+CSD-310 Repository
